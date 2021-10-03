@@ -1,2 +1,2 @@
-# ArturLamaziev.github.io
+# Артур Ламазиев
 Мой первый сайт
